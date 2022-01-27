@@ -1,0 +1,26 @@
+
+
+
+body {
+    background-color: #d9eee5;
+    color: #0f4949;
+    font-family: sans-serif;
+}
+hr {
+    border-color: #ffffff;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: .75em;
+    width: 10%;
+}
+h1 {
+    color: #2b7470;
+}
+h3 {
+    color: #2b7470;
+}
+a {
+    color: inherit;
+    font-style: italic;
+    text-decoration: inherit;
+}
